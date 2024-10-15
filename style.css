@@ -124,6 +124,10 @@ main {
     z-index: -1000;
 }
 
+.img_mobile {
+    display: none;
+}
+
 .date {
     margin-right: 80px;
 }
