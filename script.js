@@ -6,11 +6,12 @@ let body = document.querySelector('body');
 menu_button.onclick = function() {
   menu_button.classList.toggle('active');
   menu_itself.classList.toggle('active');
+  menu_list.classList.toggle('active');
   body.classList.toggle('lock');
 };
 
-menu_list.onclick = function() {
-  menu_button.classList.toggle('active');
-  menu_itself.classList.toggle('active');
-  body.classList.toggle('lock');
-};
+//menu_list.onclick = function() {
+//menu_button.classList.toggle('active');
+//menu_itself.classList.toggle('active');
+//body.classList.toggle('lock');
+//};
