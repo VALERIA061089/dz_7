@@ -1,0 +1,33 @@
+{
+  "name": "dz7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VALERIA061089/dz_7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VALERIA061089/dz_7/issues"
+  },
+  "homepage": "https://github.com/VALERIA061089/dz_7#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.11.0",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "@sentry/browser": "^8.34.0",
+    "@sentry/tracing": "^7.114.0"
+  }
+}
